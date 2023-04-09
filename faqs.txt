@@ -1,0 +1,4 @@
+Explaib about OOPS Concetps?
+Difference between pointer and ref type?
+Differene between abstract type and interface type?
+Explaib about move semantics?
