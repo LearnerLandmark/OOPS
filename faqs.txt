@@ -4,3 +4,4 @@ Differene between abstract type and interface type?
 Explaib about move semantics?
 Explain about smart pointers?
 what is lvalue and rvalue?
+difference between move constructor and copy constructor?
